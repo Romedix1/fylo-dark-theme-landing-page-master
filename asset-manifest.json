@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fylo-dark-theme-landing-page-master-reactProject/static/css/main.cbcf5e18.css",
+    "main.js": "/fylo-dark-theme-landing-page-master-reactProject/static/js/main.f5d4d9a8.js",
+    "static/media/illustration-intro.png": "/fylo-dark-theme-landing-page-master-reactProject/static/media/illustration-intro.c20d85255009f195b4a6.png",
+    "static/media/illustration-stay-productive.png": "/fylo-dark-theme-landing-page-master-reactProject/static/media/illustration-stay-productive.5d7a50ea74b08000cd67.png",
+    "static/media/icon-collaboration.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-collaboration.6c80c0a4c84274f029eb51c36f603765.svg",
+    "static/media/logo.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/logo.f5363383bf279490c4aba63ca2917a80.svg",
+    "static/media/icon-access-anywhere.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-access-anywhere.2856c661b15230024a11eb4b089dd3f1.svg",
+    "static/media/icon-any-file.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-any-file.fc9b91ba9923102f3aa45c19bc3244e6.svg",
+    "static/media/icon-security.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-security.b6a932b6269cf10d3339e0a3d22c8b4e.svg",
+    "index.html": "/fylo-dark-theme-landing-page-master-reactProject/index.html",
+    "static/media/icon-arrow.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-arrow.2491a46a96689783ec3c96bfb90aa30c.svg",
+    "static/media/bg-curvy-desktop.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/bg-curvy-desktop.953dbf39a0ba9d537f9d.svg",
+    "static/media/bg-curvy-mobile.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/bg-curvy-mobile.3ab5d2c7091bda722a7b.svg",
+    "static/media/icon-phone.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-phone.43c05d1a510cada2b8f305cbb2278ae4.svg",
+    "static/media/icon-location.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-location.a681f02d94e561498fa0781c3538edac.svg",
+    "static/media/icon-email.svg": "/fylo-dark-theme-landing-page-master-reactProject/static/media/icon-email.201ea9e2e87effbe720d0f8b77fba022.svg",
+    "main.cbcf5e18.css.map": "/fylo-dark-theme-landing-page-master-reactProject/static/css/main.cbcf5e18.css.map",
+    "main.f5d4d9a8.js.map": "/fylo-dark-theme-landing-page-master-reactProject/static/js/main.f5d4d9a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbcf5e18.css",
+    "static/js/main.f5d4d9a8.js"
+  ]
+}
